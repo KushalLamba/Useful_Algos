@@ -1,0 +1,6 @@
+stringstream ss(string_name);
+string word;   // in which you want to save your each words and push in the array
+vector<string> words;  // all words that are seprated on basis of some conditions
+while(getline(ss,word,' '//seprator){
+words.push_back(ss);
+}
